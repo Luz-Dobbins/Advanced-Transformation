@@ -1,0 +1,464 @@
+Gender,Race,Alignment,Hair color,Eye color,Skin color,Hero_names,Publisher,Height_cm,Weight_kg
+Male,Human,good,No Hair,yellow,Unknown,A-Bomb,Marvel Comics,203.0,441.0
+Male,Icthyo Sapien,good,No Hair,blue,blue,Abe Sapien,Dark Horse Comics,191.0,65.0
+Male,Ungaran,good,No Hair,blue,red,Abin Sur,DC Comics,185.0,90.0
+Male,Human / Radiation,bad,No Hair,green,Unknown,Abomination,Marvel Comics,203.0,441.0
+Male,Human,bad,No Hair,blue,Unknown,Absorbing Man,Marvel Comics,193.0,122.0
+Male,Human,good,Blond,blue,Unknown,Adam Strange,DC Comics,185.0,88.0
+Male,Human,good,Brown,brown,Unknown,Agent Bob,Marvel Comics,178.0,81.0
+Male,Unknown,good,Unknown,Unknown,Unknown,Agent Zero,Marvel Comics,191.0,104.0
+Male,Unknown,bad,White,blue,Unknown,Air-Walker,Marvel Comics,188.0,108.0
+Male,Cyborg,bad,Black,brown,Unknown,Ajax,Marvel Comics,193.0,90.0
+Male,Unknown,good,Blond,blue,Unknown,Alan Scott,DC Comics,180.0,90.0
+Male,Xenomorph XX121,bad,No Hair,Unknown,black,Alien,Dark Horse Comics,244.0,169.0
+Male,Android,bad,Unknown,red,Unknown,Amazo,DC Comics,257.0,173.0
+Male,Human,bad,Black,brown,Unknown,Ammo,Marvel Comics,188.0,101.0
+Male,Unknown,good,Blond,blue,Unknown,Angel,Marvel Comics,183.0,68.0
+Female,Mutant,good,Black,yellow,Unknown,Angel Dust,Marvel Comics,165.0,57.0
+Female,Unknown,good,Black,brown,Unknown,Angel Salvadore,Marvel Comics,163.0,54.0
+Male,Human,good,Blond,blue,Unknown,Animal Man,DC Comics,183.0,83.0
+Male,Unknown,bad,No Hair,green,Unknown,Annihilus,Marvel Comics,180.0,90.0
+Male,Human,good,Blond,blue,Unknown,Ant-Man,Marvel Comics,211.0,122.0
+Male,Human,good,Blond,blue,Unknown,Ant-Man II,Marvel Comics,183.0,86.0
+Male,Symbiote,Unknown,Blond,blue,Unknown,Anti-Venom,Marvel Comics,229.0,358.0
+Male,Mutant,bad,Black,red,grey,Apocalypse,Marvel Comics,213.0,135.0
+Male,Atlantean,good,Black,blue,Unknown,Aqualad,DC Comics,178.0,106.0
+Male,Atlantean,good,Blond,blue,Unknown,Aquaman,DC Comics,185.0,146.0
+Female,Human,good,Blond,blue,Unknown,Arachne,Marvel Comics,175.0,63.0
+Male,Mutant,good,Blond,blue,blue,Archangel,Marvel Comics,183.0,68.0
+Female,Unknown,bad,Purple,violet,Unknown,Arclight,Marvel Comics,173.0,57.0
+Female,Alien,good,Orange,white,gold,Ardina,Marvel Comics,193.0,98.0
+Male,Unknown,good,Brown,brown,Unknown,Ares,Marvel Comics,185.0,270.0
+Female,Unknown,good,Pink,purple,Unknown,Ariel,Marvel Comics,165.0,59.0
+Female,Unknown,good,Black,black,Unknown,Armor,Marvel Comics,163.0,50.0
+Male,Mutant,good,Red,brown,Unknown,Atlas,Marvel Comics,183.0,101.0
+Male,God / Eternal,bad,Brown,blue,Unknown,Atlas,DC Comics,198.0,126.0
+Male,Unknown,good,Red,blue,Unknown,Atom,DC Comics,178.0,68.0
+Female,Unknown,good,Black,black,Unknown,Atom Girl,DC Comics,168.0,54.0
+Male,Human,good,Auburn,brown,Unknown,Atom II,DC Comics,183.0,81.0
+Female,Mutant,good,Black,blue,Unknown,Aurora,Marvel Comics,180.0,63.0
+Male,Neyaphem,bad,Black,yellow,red,Azazel,Marvel Comics,183.0,67.0
+Male,Human,bad,Unknown,Unknown,Unknown,Bane,DC Comics,203.0,180.0
+Male,Human,good,Strawberry Blond,green,Unknown,Banshee,Marvel Comics,183.0,77.0
+Male,Unknown,good,Black,brown,Unknown,Bantam,Marvel Comics,165.0,54.0
+Female,Human,good,Red,green,Unknown,Batgirl,DC Comics,170.0,57.0
+Female,Human,good,Black,green,Unknown,Batgirl IV,DC Comics,165.0,52.0
+Female,Unknown,good,Blond,blue,Unknown,Batgirl VI,DC Comics,168.0,61.0
+Male,Human,good,black,blue,Unknown,Batman,DC Comics,188.0,95.0
+Male,Human,good,Black,blue,Unknown,Batman,DC Comics,178.0,77.0
+Male,Human,good,Black,blue,Unknown,Batman II,DC Comics,178.0,79.0
+Male,Unknown,good,Black,brown,Unknown,Battlestar,Marvel Comics,198.0,133.0
+Male,Unknown,good,White,black,Unknown,Beak,Marvel Comics,175.0,63.0
+Male,Mutant,good,Blue,blue,blue,Beast,Marvel Comics,180.0,181.0
+Male,Human,good,Green,green,green,Beast Boy,DC Comics,173.0,68.0
+Male,Unknown,good,No Hair,Unknown,Unknown,Beta Ray Bill,Marvel Comics,201.0,216.0
+Female,New God,bad,Black,blue,Unknown,Big Barda,DC Comics,188.0,135.0
+Male,Unknown,bad,Brown,blue,Unknown,Big Man,Marvel Comics,165.0,71.0
+Female,Unknown,good,Blond,blue,Unknown,Binary,Marvel Comics,180.0,54.0
+Male,Mutant,good,No Hair,brown,Unknown,Bishop,Marvel Comics,198.0,124.0
+Male,Bizarro,neutral,Black,black,white,Bizarro,DC Comics,191.0,155.0
+Male,Unknown,bad,Black,brown,Unknown,Black Adam,DC Comics,191.0,113.0
+Male,Inhuman,good,Black,blue,Unknown,Black Bolt,Marvel Comics,188.0,95.0
+Female,Human,good,Blond,blue,Unknown,Black Canary,DC Comics,165.0,58.0
+Female,Metahuman,good,Blond,blue,Unknown,Black Canary,DC Comics,170.0,59.0
+Female,Human,good,Blond,green,Unknown,Black Cat,Marvel Comics,178.0,54.0
+Male,Human,good,Brown,brown,Unknown,Black Knight III,Marvel Comics,183.0,86.0
+Male,Unknown,good,No Hair,brown,Unknown,Black Lightning,DC Comics,185.0,90.0
+Female,Unknown,bad,Black,green,Unknown,Black Mamba,Marvel Comics,170.0,52.0
+Male,Human,bad,No Hair,black,Unknown,Black Manta,DC Comics,188.0,92.0
+Male,Human,good,Black,brown,Unknown,Black Panther,Marvel Comics,183.0,90.0
+Female,Human,good,Auburn,green,Unknown,Black Widow,Marvel Comics,170.0,59.0
+Male,Demon,bad,White,red,white,Blackout,Marvel Comics,191.0,104.0
+Male,Unknown,bad,Black,blue,Unknown,Blackwing,Marvel Comics,185.0,86.0
+Male,Alien,Unknown,White,red,Unknown,Blackwulf,Marvel Comics,188.0,88.0
+Male,Vampire,good,Black,brown,Unknown,Blade,Marvel Comics,188.0,97.0
+Female,Unknown,good,Unknown,Unknown,Unknown,Bling!,Marvel Comics,168.0,68.0
+Female,Mutant,good,Magenta,green,pink,Blink,Marvel Comics,165.0,56.0
+Male,Unknown,bad,Brown,brown,Unknown,Blizzard II,Marvel Comics,175.0,77.0
+Male,Unknown,bad,Brown,brown,Unknown,Blob,Marvel Comics,178.0,230.0
+Female,Human,bad,Brown,blue,Unknown,Bloodaxe,Marvel Comics,218.0,495.0
+Male,Unknown,good,Brown,blue,Unknown,Blue Beetle II,DC Comics,183.0,86.0
+Female,Mutant,good,Blond,blue,Unknown,Boom-Boom,Marvel Comics,165.0,55.0
+Male,Human,good,Blond,blue,Unknown,Booster Gold,DC Comics,196.0,97.0
+Male,Android,bad,No Hair,green,green,Brainiac,DC Comics,198.0,135.0
+Male,Unknown,good,Blond,green,Unknown,Brainiac 5,DC Comics,170.0,61.0
+Male,Human,good,Brown / White,brown,Unknown,Brother Voodoo,Marvel Comics,183.0,99.0
+Female,Human,good,Blond,green,Unknown,Buffy,Dark Horse Comics,157.0,52.0
+Male,Human,bad,blond,blue,Unknown,Bullseye,Marvel Comics,183.0,90.0
+Female,Human,good,Black,brown,Unknown,Bumblebee,DC Comics,170.0,59.0
+Male,Mutant,good,White,blue,Unknown,Cable,Marvel Comics,203.0,158.0
+Female,Unknown,bad,Black,blue,Unknown,Callisto,Marvel Comics,175.0,74.0
+Male,Unknown,good,Blond,blue,Unknown,Cannonball,Marvel Comics,183.0,81.0
+Male,Human,good,blond,blue,Unknown,Captain America,Marvel Comics,188.0,108.0
+Male,Human / Radiation,good,Silver,blue,silver,Captain Atom,DC Comics,193.0,90.0
+Male,Human,good,Blond,blue,Unknown,Captain Britain,Marvel Comics,198.0,116.0
+Female,Human-Kree,good,Blond,blue,Unknown,Captain Marvel,Marvel Comics,180.0,74.0
+Male,Human,good,Black,blue,Unknown,Captain Marvel,DC Comics,193.0,101.0
+Male,Human,good,Black,blue,Unknown,Captain Marvel II,DC Comics,175.0,74.0
+Male,Symbiote,bad,Red,green,Unknown,Carnage,Marvel Comics,185.0,86.0
+Female,Unknown,good,Blond,blue,Unknown,Cat,Marvel Comics,173.0,61.0
+Female,Human,good,Black,green,Unknown,Catwoman,DC Comics,175.0,61.0
+Male,Alien,good,White,white,grey,Century,Marvel Comics,201.0,97.0
+Male,Mutant,good,Brown,brown,Unknown,Chamber,Marvel Comics,175.0,63.0
+Male,Unknown,bad,Black,brown,Unknown,Changeling,Marvel Comics,180.0,81.0
+Female,Human,bad,Blond,green,Unknown,Cheetah,DC Comics,163.0,50.0
+Female,Human,bad,Brown,green,Unknown,Cheetah II,DC Comics,170.0,55.0
+Female,Human,bad,Brown,brown,Unknown,Cheetah III,DC Comics,175.0,54.0
+Male,Unknown,bad,Red / Grey,brown,Unknown,Chromos,Team Epic TV,185.0,86.0
+Male,Human,good,Red,green,Unknown,Citizen Steel,DC Comics,183.0,170.0
+Male,Unknown,good,black,brown,Unknown,Cloak,Marvel Comics,226.0,70.0
+Male,Mutant,good,Black,silver,Unknown,Colossus,Marvel Comics,226.0,225.0
+Female,Mutant,neutral,White,red,blue,Copycat,Marvel Comics,183.0,67.0
+Male,Human,bad,Black,brown,Unknown,Cottonmouth,Marvel Comics,183.0,99.0
+Male,Unknown,good,No Hair,brown,Unknown,Crimson Dynamo,Marvel Comics,180.0,104.0
+Female,Inhuman,good,Red,green,Unknown,Crystal,Marvel Comics,168.0,50.0
+Male,Cyborg,good,Black,brown,Unknown,Cyborg,DC Comics,198.0,173.0
+Male,Mutant,good,Brown,brown,Unknown,Cyclops,Marvel Comics,191.0,88.0
+Female,Unknown,good,Blond,blue,Unknown,Dagger,Marvel Comics,165.0,52.0
+Male,Human,good,Red,blue,Unknown,Daredevil,Marvel Comics,183.0,90.0
+Male,Human,good,Brown,brown,Unknown,Darkhawk,Marvel Comics,185.0,81.0
+Male,New God,bad,No Hair,red,grey,Darkseid,DC Comics,267.0,817.0
+Female,Mutant,good,Blond,brown,Unknown,Darkstar,Marvel Comics,168.0,56.0
+Male,Cyborg,bad,No Hair,yellow,Unknown,Darth Vader,George Lucas,198.0,135.0
+Male,Human,good,Blond,blue,Unknown,Dash,Dark Horse Comics,122.0,27.0
+Female,Mutant,good,Blond,blue,Unknown,Dazzler,Marvel Comics,173.0,52.0
+Male,Human,good,Black,blue,Unknown,Deadman,DC Comics,183.0,90.0
+Male,Mutant,neutral,No Hair,brown,Unknown,Deadpool,Marvel Comics,188.0,95.0
+Male,Human,bad,Brown,brown,Unknown,Deadshot,DC Comics,185.0,91.0
+Male,Cyborg,good,Grey,brown,Unknown,Deathlok,Marvel Comics,193.0,178.0
+Male,Human,neutral,White,blue,Unknown,Deathstroke,DC Comics,193.0,101.0
+Male,Demon,bad,No Hair,red,Unknown,Demogoblin,Marvel Comics,185.0,95.0
+Male,Unknown,bad,Unknown,Unknown,Unknown,Destroyer,Marvel Comics,188.0,383.0
+Male,Human,bad,Black,brown,Unknown,Diamondback,Marvel Comics,193.0,90.0
+Male,Human / Radiation,good,Green,blue,Unknown,Doc Samson,Marvel Comics,198.0,171.0
+Male,Human,bad,Brown,brown,Unknown,Doctor Doom,Marvel Comics,201.0,187.0
+Male,Unknown,bad,Brown,brown,Unknown,Doctor Doom II,Marvel Comics,201.0,132.0
+Male,Human,good,Blond,blue,Unknown,Doctor Fate,DC Comics,188.0,89.0
+Male,Human,bad,Brown,brown,Unknown,Doctor Octopus,Marvel Comics,175.0,110.0
+Male,Human,good,Black,grey,Unknown,Doctor Strange,Marvel Comics,188.0,81.0
+Female,Human,good,Black,blue,white,Domino,Marvel Comics,173.0,54.0
+Female,Amazon,good,Black,blue,Unknown,Donna Troy,DC Comics,175.0,63.0
+Male,Alien,bad,White,red,Unknown,Doomsday,DC Comics,244.0,412.0
+Male,Unknown,bad,No Hair,white,Unknown,Doppelganger,Marvel Comics,196.0,104.0
+Male,Human / Altered,good,No Hair,red,green,Drax the Destroyer,Marvel Comics,193.0,306.0
+Female,Human,good,Brown,brown,Unknown,Elastigirl,Dark Horse Comics,168.0,56.0
+Male,Human,bad,Auburn,blue,Unknown,Electro,Marvel Comics,180.0,74.0
+Female,Human,good,Black,blue,Unknown,Elektra,Marvel Comics,175.0,59.0
+Male,Unknown,good,Red,blue,Unknown,Elongated Man,DC Comics,185.0,80.0
+Female,Unknown,good,Blond,blue,Unknown,Emma Frost,Marvel Comics,178.0,65.0
+Female,Human,good,Blond,blue,Unknown,Enchantress,DC Comics,168.0,57.0
+Male,Demon,neutral,No Hair,red,yellow,Etrigan,DC Comics,193.0,203.0
+Male,Mutant,bad,Red,white,Unknown,Evil Deadpool,Marvel Comics,188.0,95.0
+Male,Alien,bad,Black,red,green,Evilhawk,Marvel Comics,191.0,106.0
+Male,Mutant,bad,Black,blue,red,Exodus,Marvel Comics,183.0,88.0
+Unknown,Unknown,bad,Brown,blue,Unknown,Fabian Cortez,Marvel Comics,196.0,96.0
+Male,Human,good,Black,brown,Unknown,Falcon,Marvel Comics,188.0,108.0
+Unknown,Unknown,good,Orange / White,yellow (without irises),Unknown,Feral,Marvel Comics,175.0,50.0
+Male,Kakarantharaian,good,No Hair,red,green,Fin Fang Foom,Marvel Comics,975.0,18.0
+Female,Unknown,good,Black,brown,Unknown,Firebird,Marvel Comics,165.0,56.0
+Unknown,Unknown,good,Yellow,white,Unknown,Firelord,Marvel Comics,193.0,99.0
+Female,Mutant,good,Red,green,Unknown,Firestar,Marvel Comics,173.0,56.0
+Male,Human,good,Auburn,blue,Unknown,Firestorm,DC Comics,188.0,91.0
+Male,Human,good,Brown / White,blue,Unknown,Flash,DC Comics,180.0,81.0
+Male,Human,good,Blond,blue,Unknown,Flash II,DC Comics,183.0,88.0
+Male,Human,good,Unknown,Unknown,Unknown,Flash III,DC Comics,183.0,86.0
+Male,Human,good,Auburn,yellow,Unknown,Flash IV,DC Comics,157.0,52.0
+Unknown,Unknown,good,Black,brown,Unknown,Forge,Marvel Comics,183.0,81.0
+Male,Mutant,good,Blond,blue,Unknown,Franklin Richards,Marvel Comics,142.0,45.0
+Female,Unknown,bad,Black,brown,Unknown,Frenzy,Marvel Comics,211.0,104.0
+Female,Unknown,good,White,blue,Unknown,Frigga,Marvel Comics,180.0,167.0
+Male,Cosmic Entity,neutral,Black,black,Unknown,Galactus,Marvel Comics,876.0,16.0
+Male,Mutant,good,Brown,red,Unknown,Gambit,Marvel Comics,185.0,81.0
+Female,Zen-Whoberian,good,Black,yellow,green,Gamora,Marvel Comics,183.0,77.0
+Male,Unknown,good,Blond,blue,Unknown,Genesis,Marvel Comics,185.0,86.0
+Male,Demon,good,No Hair,red,Unknown,Ghost Rider,Marvel Comics,188.0,99.0
+Female,Unknown,bad,Red,green,Unknown,Giganta,DC Comics,62.5,630.0
+Male,Strontian,neutral,Blue,blue,purple,Gladiator,Marvel Comics,198.0,268.0
+Female,Unknown,bad,Red,green,Unknown,Goblin Queen,Marvel Comics,168.0,50.0
+Male,Saiyan,good,Unknown,Unknown,Unknown,Goku,Shueisha,175.0,62.0
+Male,Unknown,good,Black,brown,Unknown,Goliath IV,Marvel Comics,183.0,90.0
+Male,Gorilla,bad,Black,yellow,Unknown,Gorilla Grodd,DC Comics,198.0,270.0
+Female,Unknown,bad,White,blue,Unknown,Granny Goodness,DC Comics,178.0,115.0
+Male,Human,good,Brown,blue,Unknown,Gravity,Marvel Comics,178.0,79.0
+Male,Human,good,Blond,green,Unknown,Green Arrow,DC Comics,188.0,88.0
+Male,Human,bad,Auburn,blue,Unknown,Green Goblin,Marvel Comics,180.0,83.0
+Male,Unknown,bad,Auburn,blue,Unknown,Green Goblin II,Marvel Comics,178.0,77.0
+Male,Unknown,good,Unknown,Unknown,Unknown,Green Goblin III,Marvel Comics,183.0,88.0
+Male,Unknown,good,Brown,green,Unknown,Green Goblin IV,Marvel Comics,178.0,79.0
+Male,Flora Colossus,good,Unknown,yellow,Unknown,Groot,Marvel Comics,701.0,4.0
+Male,Human-Vuldarian,good,Red,blue,Unknown,Guy Gardner,DC Comics,188.0,95.0
+Male,Human,good,Brown,brown,Unknown,Hal Jordan,DC Comics,188.0,90.0
+Male,Human,good,Brown,brown,Unknown,Han Solo,George Lucas,183.0,79.0
+Female,Human,bad,Blond,blue,Unknown,Harley Quinn,DC Comics,170.0,63.0
+Male,Mutant,good,Blond,blue,Unknown,Havok,Marvel Comics,183.0,79.0
+Male,Unknown,good,Brown,red,Unknown,Hawk,DC Comics,185.0,89.0
+Male,Human,good,Blond,blue,Unknown,Hawkeye,Marvel Comics,191.0,104.0
+Female,Human,good,Black,blue,Unknown,Hawkeye II,Marvel Comics,165.0,57.0
+Female,Unknown,good,Red,green,Unknown,Hawkgirl,DC Comics,175.0,61.0
+Male,Unknown,good,Brown,blue,Unknown,Hawkman,DC Comics,185.0,88.0
+Male,Human,bad,No Hair,blue,Unknown,Heat Wave,DC Comics,180.0,81.0
+Female,Asgardian,bad,Black,green,Unknown,Hela,Marvel Comics,213.0,225.0
+Male,Demon,good,Black,gold,Unknown,Hellboy,Dark Horse Comics,259.0,158.0
+Female,Human,good,Red,blue,Unknown,Hellcat,Marvel Comics,173.0,61.0
+Male,Unknown,good,Red,red,Unknown,Hellstorm,Marvel Comics,185.0,81.0
+Male,Demi-God,good,Brown,blue,Unknown,Hercules,Marvel Comics,196.0,146.0
+Male,Unknown,bad,Grey,blue,Unknown,Hobgoblin,Marvel Comics,180.0,83.0
+Female,Unknown,good,Red,green,Unknown,Hope Summers,Marvel Comics,168.0,48.0
+Male,Human / Radiation,good,Green,green,green,Hulk,Marvel Comics,244.0,630.0
+Male,Human / Radiation,good,Blond,blue,Unknown,Human Torch,Marvel Comics,178.0,77.0
+Female,Unknown,good,Black,blue,Unknown,Huntress,DC Comics,180.0,59.0
+Female,Mutant,good,Blond,blue,Unknown,Husk,Marvel Comics,170.0,58.0
+Male,Symbiote,good,Black,brown,Unknown,Hybrid,Marvel Comics,175.0,77.0
+Male,Unknown,bad,Brown,brown,Unknown,Hydro-Man,Marvel Comics,188.0,119.0
+Male,Eternal,good,Red,blue,Unknown,Hyperion,Marvel Comics,183.0,207.0
+Male,Mutant,good,Brown,brown,Unknown,Iceman,Marvel Comics,173.0,65.0
+Male,Human,good,Auburn,yellow,Unknown,Impulse,DC Comics,170.0,65.0
+Male,Human,good,Unknown,Unknown,Unknown,Indiana Jones,George Lucas,183.0,79.0
+Male,Mutant,good,No Hair,blue,Unknown,Ink,Marvel Comics,180.0,81.0
+Female,Human / Radiation,good,Blond,blue,Unknown,Invisible Woman,Marvel Comics,168.0,54.0
+Male,Human,good,Blond,blue,Unknown,Iron Fist,Marvel Comics,180.0,79.0
+Male,Human,good,Black,blue,Unknown,Iron Man,Marvel Comics,198.0,191.0
+Male,Human,good,Brown,blue / white,Unknown,Jack of Hearts,Marvel Comics,155.0,79.0
+Male,Human,good,Brown,blue,Unknown,Jack-Jack,Dark Horse Comics,71.0,14.0
+Male,Human,good,Brown,hazel,Unknown,James T. Kirk,Star Trek,178.0,77.0
+Female,Mutant,good,Red,green,Unknown,Jean Grey,Marvel Comics,168.0,52.0
+Female,Unknown,good,Blond,blue,Unknown,Jennifer Kale,Marvel Comics,168.0,55.0
+Female,Human,good,Brown,brown,Unknown,Jessica Jones,Marvel Comics,170.0,56.0
+Male,Human,good,Black,green,Unknown,John Stewart,DC Comics,185.0,90.0
+Male,Unknown,good,Black,brown,Unknown,John Wraith,Marvel Comics,183.0,88.0
+Male,Human,bad,Green,green,white,Joker,DC Comics,196.0,86.0
+Female,Unknown,good,Black,blue,Unknown,Jolt,Marvel Comics,165.0,49.0
+Female,Mutant,good,Black,red,Unknown,Jubilee,Marvel Comics,165.0,52.0
+Male,Human,neutral,Red,blue,Unknown,Juggernaut,Marvel Comics,287.0,855.0
+Male,Human,good,Brown,hazel,Unknown,Justice,Marvel Comics,178.0,81.0
+Male,Unknown,bad,Brown,brown,Unknown,Kang,Marvel Comics,191.0,104.0
+Male,Human,good,Brown,brown,Unknown,Karate Kid,DC Comics,173.0,72.0
+Male,Metahuman,bad,No Hair,red,green,Killer Croc,DC Comics,244.0,356.0
+Male,Bolovaxian,good,No Hair,red,pink,Kilowog,DC Comics,234.0,324.0
+Male,Human,bad,No Hair,red,red,Klaw,Marvel Comics,188.0,97.0
+Male,Human,bad,Black,brown,Unknown,Kraven II,Marvel Comics,191.0,99.0
+Male,Human,bad,Black,brown,Unknown,Kraven the Hunter,Marvel Comics,183.0,106.0
+Male,Kryptonian,good,White,blue,Unknown,Krypto,DC Comics,64.0,18.0
+Male,Human,good,Black,green,Unknown,Kyle Rayner,DC Comics,180.0,79.0
+Female,Cyborg,bad,Black,brown,Unknown,Lady Deathstrike,Marvel Comics,175.0,58.0
+Male,Unknown,bad,No Hair,green,Unknown,Leader,Marvel Comics,178.0,63.0
+Male,Mutant,good,Black,green / blue,Unknown,Legion,Marvel Comics,175.0,59.0
+Male,Human,bad,No Hair,green,Unknown,Lex Luthor,DC Comics,188.0,95.0
+Female,Unknown,good,Red,blue,Unknown,Light Lass,DC Comics,165.0,54.0
+Male,Unknown,good,Red,blue,Unknown,Lightning Lad,DC Comics,155.0,65.0
+Male,Unknown,bad,Red,blue,Unknown,Lightning Lord,DC Comics,191.0,95.0
+Unknown,Unknown,bad,Unknown,yellow,Unknown,Living Brain,Marvel Comics,198.0,360.0
+Male,Human,bad,No Hair,red,Unknown,Lizard,Marvel Comics,203.0,230.0
+Male,Czarnian,neutral,Black,red,blue-white,Lobo,DC Comics,229.0,288.0
+Male,Asgardian,bad,Black,green,Unknown,Loki,Marvel Comics,193.0,236.0
+Male,Human,good,Blond,blue,Unknown,Longshot,Marvel Comics,188.0,36.0
+Male,Human,good,Black,brown,Unknown,Luke Cage,Marvel Comics,198.0,191.0
+Male,Human,good,Blond,blue,Unknown,Luke Skywalker,George Lucas,168.0,77.0
+Male,Unknown,bad,Brown,brown,Unknown,Mach-IV,Marvel Comics,180.0,79.0
+Unknown,Unknown,good,Black,red,Unknown,Machine Man,Marvel Comics,183.0,383.0
+Male,Mutant,bad,White,grey,Unknown,Magneto,Marvel Comics,188.0,86.0
+Male,Unknown,good,No Hair,red,green,Man-Thing,Marvel Comics,213.0,225.0
+Male,Unknown,good,Auburn,brown,Unknown,Man-Wolf,Marvel Comics,188.0,90.0
+Male,Human,bad,White,blue,Unknown,Mandarin,Marvel Comics,188.0,97.0
+Female,Human-Kree,good,Black,green,green,Mantis,Marvel Comics,168.0,52.0
+Male,Martian,good,No Hair,red,green,Martian Manhunter,DC Comics,201.0,135.0
+Female,Unknown,good,Red,green,Unknown,Marvel Girl,Marvel Comics,170.0,56.0
+Male,Unknown,good,Black,blue,Unknown,Master Brood,Team Epic TV,183.0,81.0
+Male,Unknown,good,Black,blue,Unknown,Maverick,Marvel Comics,193.0,110.0
+Female,Unknown,bad,Red,brown,Unknown,Maxima,DC Comics,180.0,72.0
+Female,Inhuman,good,Red,green,Unknown,Medusa,Marvel Comics,180.0,59.0
+Female,Unknown,good,Blond,blue,Unknown,Meltdown,Marvel Comics,165.0,54.0
+Male,Unknown,bad,Black,white,Unknown,Mephisto,Marvel Comics,198.0,140.0
+Female,Atlantean,good,Red,blue,Unknown,Mera,DC Comics,175.0,72.0
+Male,Android,bad,Brown,green,Unknown,Metallo,DC Comics,196.0,90.0
+Male,Unknown,good,No Hair,black,Unknown,Metamorpho,DC Comics,185.0,90.0
+Male,Unknown,good,Black,blue,Unknown,Metron,DC Comics,185.0,86.0
+Male,Unknown,good,Brown,grey,Unknown,Micro Lad,DC Comics,183.0,77.0
+Male,Unknown,good,Brown,brown,Unknown,Mimic,Marvel Comics,188.0,101.0
+Female,Unknown,good,Red,red,Unknown,Miss Martian,DC Comics,178.0,61.0
+Male,Human / Radiation,good,Brown,brown,Unknown,Mister Fantastic,Marvel Comics,185.0,81.0
+Male,Human,bad,Unknown,Unknown,Unknown,Mister Freeze,DC Comics,183.0,86.0
+Male,Human / Altered,bad,Black,red,Unknown,Mister Sinister,Marvel Comics,196.0,128.0
+Female,Human,good,Blond,blue,Unknown,Mockingbird,Marvel Comics,175.0,61.0
+Male,Cyborg,bad,Brownn,white,Unknown,MODOK,Marvel Comics,366.0,338.0
+Male,Unknown,bad,Gold,gold,Unknown,Molten Man,Marvel Comics,196.0,248.0
+Male,Unknown,good,White,blue,Unknown,Monarch,DC Comics,193.0,90.0
+Male,Human,good,Brown,brown,Unknown,Moon Knight,Marvel Comics,188.0,101.0
+Female,Unknown,bad,Blond,blue,Unknown,Moonstone,Marvel Comics,180.0,59.0
+Male,Unknown,bad,Black,white / red,Unknown,Morlun,Marvel Comics,188.0,79.0
+Male,Unknown,bad,Black,brown,Unknown,Moses Magnum,Marvel Comics,175.0,72.0
+Male,Mutant,good,Blond,blue,Unknown,Mr Immortal,Marvel Comics,188.0,70.0
+Male,Human,good,Blond,blue,Unknown,Mr Incredible,Dark Horse Comics,201.0,158.0
+Female,Unknown,good,Red,blue,Unknown,Ms Marvel II,Marvel Comics,173.0,61.0
+Male,Unknown,good,Brown,blue,Unknown,Multiple Man,Marvel Comics,180.0,70.0
+Male,Human,bad,No Hair,brown,Unknown,Mysterio,Marvel Comics,180.0,79.0
+Female,Mutant,bad,Red / Orange,yellow (without irises),blue,Mystique,Marvel Comics,178.0,54.0
+Male,Atlantean,good,Black,grey,Unknown,Namor,Marvel Comics,188.0,125.0
+Female,Unknown,good,Blond,blue,Unknown,Namora,Marvel Comics,180.0,85.0
+Female,Unknown,good,Blond,blue,Unknown,Namorita,Marvel Comics,168.0,101.0
+Male,Human,good,Unknown,Unknown,Unknown,Naruto Uzumaki,Shueisha,168.0,54.0
+Female,Luphomoid,bad,No Hair,blue,blue,Nebula,Marvel Comics,185.0,83.0
+Male,Human,good,Brown / White,brown,Unknown,Nick Fury,Marvel Comics,185.0,99.0
+Male,Unknown,good,Indigo,yellow,Unknown,Nightcrawler,Marvel Comics,175.0,88.0
+Male,Human,good,Black,blue,Unknown,Nightwing,DC Comics,178.0,79.0
+Male,Unknown,good,Black,blue,Unknown,Northstar,Marvel Comics,180.0,83.0
+Male,Human,good,Brown,brown,Unknown,Nova,Marvel Comics,185.0,86.0
+Female,Human / Cosmic,good,Red,white,gold,Nova,Marvel Comics,163.0,59.0
+Male,God / Eternal,good,White,blue,Unknown,Odin,Marvel Comics,206.0,293.0
+Male,Unknown,good,Black,brown,Unknown,Omniscient,Team Epic TV,180.0,65.0
+Male,Human,good,No Hair,Unknown,Unknown,One Punch Man,Shueisha,175.0,69.0
+Male,Mutant,bad,No Hair,red,Unknown,Onslaught,Marvel Comics,305.0,405.0
+Female,Human,good,Red,blue,Unknown,Oracle,DC Comics,178.0,59.0
+Male,Unknown,good,Blond,blue,Unknown,Penance II,Marvel Comics,183.0,89.0
+Male,Human,bad,Black,blue,Unknown,Penguin,DC Comics,157.0,79.0
+Female,Unknown,good,Black,blue,Unknown,Phantom Girl,DC Comics,168.0,54.0
+Female,Mutant,good,Red,green,Unknown,Phoenix,Marvel Comics,168.0,52.0
+Male,Mutant,bad,Grey,green,Unknown,Plantman,Marvel Comics,183.0,87.0
+Male,Human,good,Black,blue,Unknown,Plastic Man,DC Comics,185.0,80.0
+Female,Unknown,bad,Red,blue,Unknown,Plastique,DC Comics,168.0,55.0
+Female,Human,bad,Red,green,green,Poison Ivy,DC Comics,168.0,50.0
+Female,Mutant,good,Green,green,Unknown,Polaris,Marvel Comics,170.0,52.0
+Female,Kryptonian,good,blond,blue,Unknown,Power Girl,DC Comics,180.0,81.0
+Male,Yautja,bad,Unknown,Unknown,Unknown,Predator,Dark Horse Comics,213.0,234.0
+Male,Mutant,good,No Hair,blue,Unknown,Professor X,Marvel Comics,183.0,86.0
+Male,Human,bad,Strawberry Blond,blue,Unknown,Professor Zoom,DC Comics,180.0,81.0
+Female,Mutant,good,Purple,blue,Unknown,Psylocke,Marvel Comics,180.0,70.0
+Male,Human,good,Black,blue,Unknown,Punisher,Marvel Comics,183.0,90.0
+Male,Human,bad,Purple,purple,purple,Purple Man,Marvel Comics,180.0,74.0
+Male,Unknown,bad,Blond,blue,Unknown,Pyro,Marvel Comics,178.0,68.0
+Male,Human,good,Blond,blue,Unknown,Question,DC Comics,188.0,83.0
+Male,Mutant,good,Silver,blue,Unknown,Quicksilver,Marvel Comics,183.0,79.0
+Male,Unknown,good,Brown,brown,Unknown,Quill,Marvel Comics,163.0,56.0
+Male,Human,bad,Grey,green,Unknown,Ra's Al Ghul,DC Comics,193.0,97.0
+Male,Human,good,Black,brown,Unknown,Rambo,Unknown,178.0,83.0
+Female,Human,neutral,Black,indigo,Unknown,Raven,DC Comics,165.0,50.0
+Male,Human,good,Red,green,Unknown,Ray,DC Comics,178.0,70.0
+Male,Unknown,bad,No Hair,blue,Unknown,Razor-Fist II,Marvel Comics,191.0,117.0
+Male,Human,good,Red,green,Unknown,Red Arrow,DC Comics,180.0,83.0
+Male,Human,neutral,Black,blue,Unknown,Red Hood,DC Comics,183.0,81.0
+Male,Human / Radiation,neutral,Black,yellow,red,Red Hulk,Marvel Comics,213.0,630.0
+Male,Human,good,Black,blue,Unknown,Red Robin,DC Comics,165.0,56.0
+Male,Unknown,bad,No Hair,blue,Unknown,Red Skull,Marvel Comics,188.0,108.0
+Male,Android,good,No Hair,green,Unknown,Red Tornado,DC Comics,185.0,146.0
+Male,Human / Radiation,bad,Brown,brown,Unknown,Rhino,Marvel Comics,196.0,320.0
+Male,Unknown,bad,Brown,blue,Unknown,Rick Flag,DC Comics,185.0,85.0
+Female,Unknown,good,Black,green,Unknown,Ripcord,Marvel Comics,180.0,72.0
+Male,Human,good,Black,blue,Unknown,Robin,DC Comics,178.0,79.0
+Male,Human,good,Red,blue,Unknown,Robin II,DC Comics,183.0,101.0
+Male,Human,good,Black,blue,Unknown,Robin III,DC Comics,165.0,56.0
+Male,Human,good,Black,blue,Unknown,Robin V,DC Comics,137.0,38.0
+Male,Animal,good,Brown,brown,Unknown,Rocket Raccoon,Marvel Comics,122.0,25.0
+Female,Unknown,good,Brown / White,green,Unknown,Rogue,Marvel Comics,173.0,54.0
+Male,Human,good,Red,blue,Unknown,Rorschach,DC Comics,168.0,63.0
+Male,Mutant,bad,Blond,amber,Unknown,Sabretooth,Marvel Comics,198.0,171.0
+Female,Unknown,good,Black,blue,Unknown,Sage,Marvel Comics,170.0,61.0
+Male,Human,neutral,Brown,brown,Unknown,Sandman,Marvel Comics,185.0,203.0
+Male,Unknown,good,Orange,red,Unknown,Sasquatch,Marvel Comics,305.0,900.0
+Male,Human,bad,Brown,blue,Unknown,Scarecrow,DC Comics,183.0,63.0
+Male,Human,good,Blond,blue,Unknown,Scarlet Spider,Marvel Comics,178.0,74.0
+Male,Clone,good,Brown,brown,Unknown,Scarlet Spider II,Marvel Comics,193.0,113.0
+Female,Mutant,bad,Brown,blue,Unknown,Scarlet Witch,Marvel Comics,170.0,59.0
+Male,Human,bad,Brown,brown,Unknown,Scorpion,Marvel Comics,211.0,310.0
+Male,Mutant,neutral,Blond,blue,Unknown,Sentry,Marvel Comics,188.0,87.0
+Unknown,Unknown,good,Unknown,red,Unknown,Shadow King,Marvel Comics,185.0,149.0
+Female,Talokite,good,Black,black,blue,Shadow Lass,DC Comics,173.0,54.0
+Female,Mutant,good,Brown,hazel,Unknown,Shadowcat,Marvel Comics,168.0,50.0
+Male,Human,good,Black,brown,Unknown,Shang-Chi,Marvel Comics,178.0,79.0
+Male,Unknown,good,Red,brown,Unknown,Shatterstar,Marvel Comics,191.0,88.0
+Female,Human,good,Green,green,Unknown,She-Hulk,Marvel Comics,201.0,315.0
+Female,Human / Radiation,good,No Hair,blue,Unknown,She-Thing,Marvel Comics,183.0,153.0
+Male,Human,bad,Brown,brown,Unknown,Shocker,Marvel Comics,175.0,79.0
+Female,Unknown,good,Black,yellow / blue,Unknown,Shriek,Marvel Comics,173.0,52.0
+Female,Asgardian,good,Black,blue,Unknown,Sif,Marvel Comics,188.0,191.0
+Male,Alien,good,No Hair,white,silver,Silver Surfer,Marvel Comics,193.0,101.0
+Female,Unknown,good,Black,brown,Unknown,Silverclaw,Marvel Comics,157.0,50.0
+Male,Korugaran,neutral,Black,black,red,Sinestro,DC Comics,201.0,92.0
+Female,Atlantean,bad,Purple,blue,Unknown,Siren,DC Comics,175.0,72.0
+Female,Unknown,bad,Strawberry Blond,blue,Unknown,Siryn,Marvel Comics,168.0,52.0
+Male,Unknown,good,Black,green,Unknown,Skaar,Marvel Comics,198.0,180.0
+Female,Unknown,good,Blond,white,Unknown,Snowbird,Marvel Comics,178.0,49.0
+Male,Zombie,bad,White,black,Unknown,Solomon Grundy,DC Comics,279.0,437.0
+Female,Unknown,good,Red / White,green,Unknown,Songbird,Marvel Comics,165.0,65.0
+Male,Human,good,Unknown,Unknown,Unknown,Space Ghost,DC Comics,188.0,113.0
+Male,Demon,good,Black,brown,Unknown,Spawn,Image Comics,211.0,405.0
+Female,Human,good,Brown,blue,Unknown,Spider-Girl,Marvel Comics,170.0,54.0
+Female,Human,good,Blond,blue,Unknown,Spider-Gwen,Marvel Comics,165.0,56.0
+Male,Human,good,Brown,hazel,Unknown,Spider-Man,Marvel Comics,178.0,74.0
+Unknown,Human,good,Brown,red,Unknown,Spider-Man,Marvel Comics,178.0,77.0
+Male,Human,good,Black,brown,Unknown,Spider-Man,Marvel Comics,157.0,56.0
+Female,Human,good,Black,green,Unknown,Spider-Woman,Marvel Comics,178.0,59.0
+Female,Unknown,good,Brown,brown,Unknown,Spider-Woman III,Marvel Comics,173.0,55.0
+Female,Unknown,bad,White,red,Unknown,Spider-Woman IV,Marvel Comics,178.0,58.0
+Male,Human-Vulcan,good,Black,brown,Unknown,Spock,Star Trek,185.0,81.0
+Male,Mutant,good,Blond,brown,Unknown,Spyke,Marvel Comics,183.0,83.0
+Male,Human-Spartoi,good,Blond,blue,Unknown,Star-Lord,Marvel Comics,188.0,79.0
+Female,Tamaranean,good,Auburn,green,orange,Starfire,DC Comics,193.0,71.0
+Female,Human,good,Blond,blue,Unknown,Stargirl,DC Comics,165.0,62.0
+Male,Mutant,good,Black,brown,Unknown,Static,DC Comics,170.0,63.0
+Male,Unknown,good,No Hair,brown,Unknown,Steel,DC Comics,201.0,131.0
+Male,New God,bad,Black,red,white,Steppenwolf,DC Comics,183.0,91.0
+Female,Mutant,good,White,blue,Unknown,Storm,Marvel Comics,180.0,57.0
+Male,Mutant,good,black,brown,Unknown,Sunspot,Marvel Comics,173.0,77.0
+Male,Unknown,good,Black,blue,Unknown,Superboy,DC Comics,170.0,68.0
+Male,Kryptonian,bad,Black / Blue,blue,Unknown,Superboy-Prime,DC Comics,180.0,77.0
+Female,Kryptonian,good,Blond,blue,Unknown,Supergirl,DC Comics,165.0,54.0
+Male,Kryptonian,good,Black,blue,Unknown,Superman,DC Comics,191.0,101.0
+Male,Mutant,bad,No Hair,yellow,yellow,Swarm,Marvel Comics,196.0,47.0
+Male,Unknown,good,Black,brown,Unknown,Synch,Marvel Comics,180.0,74.0
+Male,Android,bad,Unknown,Unknown,silver,T-1000,Dark Horse Comics,183.0,146.0
+Male,Human,bad,Brown,brown,Unknown,Taskmaster,Marvel Comics,188.0,99.0
+Female,Unknown,good,Black,brown,Unknown,Tempest,Marvel Comics,163.0,54.0
+Male,Eternal,bad,No Hair,red,purple,Thanos,Marvel Comics,201.0,443.0
+Male,Human,neutral,Black,brown,Unknown,The Comedian,DC Comics,188.0,101.0
+Male,Human / Radiation,good,No Hair,blue,Unknown,Thing,Marvel Comics,183.0,225.0
+Male,Asgardian,good,Blond,blue,Unknown,Thor,Marvel Comics,198.0,288.0
+Female,Asgardian,good,Blond,blue,Unknown,Thor Girl,Marvel Comics,175.0,143.0
+Male,Unknown,good,Black,brown,Unknown,Thunderbird,Marvel Comics,185.0,101.0
+Male,Unknown,good,Black,brown,Unknown,Thunderbird III,Marvel Comics,175.0,74.0
+Male,Unknown,good,Blond,blue,Unknown,Thunderstrike,Marvel Comics,198.0,288.0
+Female,Unknown,good,Red,green,Unknown,Thundra,Marvel Comics,218.0,158.0
+Male,Human,bad,No Hair,grey,grey,Tiger Shark,Marvel Comics,185.0,203.0
+Female,Unknown,good,Auburn,green,Unknown,Tigra,Marvel Comics,178.0,81.0
+Male,Unknown,bad,White,brown,Unknown,Tinkerer,Marvel Comics,163.0,54.0
+Male,Mutant,neutral,Brown,black,green,Toad,Marvel Comics,175.0,76.0
+Male,Symbiote,good,Brown,blue,Unknown,Toxin,Marvel Comics,188.0,97.0
+Male,Symbiote,good,Blond,black,Unknown,Toxin,Marvel Comics,191.0,117.0
+Male,Human,Unknown,Blond,blue,Unknown,Trickster,DC Comics,183.0,81.0
+Female,Unknown,good,Brown,purple,Unknown,Triplicate Girl,DC Comics,168.0,59.0
+Male,Inhuman,good,No Hair,green,green,Triton,Marvel Comics,188.0,86.0
+Female,Unknown,good,Blond,blue,Unknown,Ultragirl,Marvel Comics,168.0,105.0
+Male,Android,bad,Unknown,red,silver,Ultron,Marvel Comics,206.0,331.0
+Male,Frost Giant,bad,White,blue,Unknown,Utgard-Loki,Marvel Comics,15.2,58.0
+Female,Unknown,good,Black,hazel,Unknown,Valerie Hart,Team Epic TV,175.0,56.0
+Female,Unknown,good,Blond,blue,Unknown,Valkyrie,Marvel Comics,191.0,214.0
+Male,Unknown,bad,No Hair,green,Unknown,Vanisher,Marvel Comics,165.0,79.0
+Male,Saiyan,bad,Black,Unknown,Unknown,Vegeta,Shueisha,168.0,73.0
+Male,Symbiote,bad,Strawberry Blond,blue,Unknown,Venom,Marvel Comics,191.0,117.0
+Male,Unknown,bad,Black,brown,Unknown,Venom II,Marvel Comics,175.0,50.0
+Male,Symbiote,bad,Brown,brown,Unknown,Venom III,Marvel Comics,229.0,334.0
+Female,Unknown,good,Silver,blue,Unknown,Vertigo II,Marvel Comics,168.0,52.0
+Male,Human,good,Black,brown,Unknown,Vibe,DC Comics,178.0,71.0
+Female,Human,good,Red,green,Unknown,Vindicator,Marvel Comics,165.0,54.0
+Female,Human,good,Black,violet,Unknown,Violet Parr,Dark Horse Comics,137.0,41.0
+Male,Android,good,No Hair,gold,red,Vision,Marvel Comics,191.0,135.0
+Female,Human,good,Black,amber,Unknown,Vixen,DC Comics,175.0,63.0
+Male,Human,bad,No Hair,brown,Unknown,Vulture,Marvel Comics,180.0,79.0
+Male,Human,bad,Black,blue,Unknown,Walrus,Marvel Comics,183.0,162.0
+Male,Human,good,Brown,brown,Unknown,War Machine,Marvel Comics,185.0,95.0
+Male,Unknown,good,Blond,red,Unknown,Warlock,Marvel Comics,188.0,108.0
+Male,Unknown,bad,Black,brown,Unknown,Warp,DC Comics,173.0,67.0
+Male,Mutant,good,Black,brown,Unknown,Warpath,Marvel Comics,218.0,158.0
+Female,Human,good,Auburn,blue,Unknown,Wasp,Marvel Comics,163.0,50.0
+Male,Human,good,Brown,brown,Unknown,Winter Soldier,Marvel Comics,175.0,117.0
+Female,Unknown,good,Auburn,green,Unknown,Wolfsbane,Marvel Comics,366.0,473.0
+Male,Mutant,good,Black,blue,Unknown,Wolverine,Marvel Comics,160.0,135.0
+Female,Demi-God,good,Blond,blue,Unknown,Wonder Girl,DC Comics,165.0,51.0
+Male,Unknown,good,Black,red,Unknown,Wonder Man,Marvel Comics,188.0,171.0
+Female,Amazon,good,Black,blue,Unknown,Wonder Woman,DC Comics,183.0,74.0
+Female,Mutant / Clone,good,Black,green,Unknown,X-23,Marvel Comics,155.0,50.0
+Male,Unknown,good,Brown,blue,Unknown,X-Man,Marvel Comics,175.0,61.0
+Male,Human,good,Blond,blue,Unknown,Yellowjacket,Marvel Comics,183.0,83.0
+Female,Human,good,Strawberry Blond,blue,Unknown,Yellowjacket II,Marvel Comics,165.0,52.0
+Male,Yoda's species,good,White,brown,green,Yoda,George Lucas,66.0,17.0
+Female,Human,good,Black,blue,Unknown,Zatanna,DC Comics,170.0,57.0
+Male,Unknown,bad,Brown,red,Unknown,Zoom,DC Comics,185.0,81.0
